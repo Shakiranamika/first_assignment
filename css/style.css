@@ -1,0 +1,43 @@
+body{
+  background-color: skyblue;
+  margin: 0;
+}
+div{
+
+background-color: lightblue;
+
+width: 900px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 80px;
+margin-bottom: 80px;
+
+padding: 50px;
+
+    box-shadow: 3px 3px 30px #000000
+}
+h1{
+	text-align: center;
+    font-size: 50px;
+    color: #3a3f7d;
+}
+span{
+	    color: #2f0c4a;
+}
+b{    
+	font-size: 62px;
+}
+
+p{
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+}
+
+img{
+	height: 740px;
+	width: 480px;
+}
